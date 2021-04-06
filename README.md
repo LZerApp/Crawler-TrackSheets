@@ -1,7 +1,7 @@
 <!-- Badge for License -->
 <div align="right">
 
-  [![](https://img.shields.io/github/license/LZerApp/Crawler-SPSheet.svg?style=flat-square)](./LICENSE)
+  [![](https://img.shields.io/github/license/LZerApp/Crawler-TrackSheets.svg?style=flat-square)](./LICENSE)
   
 </div>
 
